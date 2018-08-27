@@ -1,0 +1,61 @@
+.text-center {
+    text-align: center;
+}
+.button-github {
+    background-color: white; /* Green */
+    border: 2px solid grey;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.button-github:hover {
+    background-color: grey; /* Green */
+    color: white;
+}
+.image-profile {
+    display: block;
+    max-width:500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+}
+.button-linkedin {
+    background-color: #3076B0; /* Green */
+    border: green;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    background-image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBjM_57I3dAhUQ0KwKHaXpCEIQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_Logo.svg&psig=AOvVaw2r92m_lSVbyfmOCrPO6NZi&ust=1535480545945860
+}
+.button-linkedin:hover {
+    background-color: #3076B0; /* Green */
+    color: white;
+}
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table-div {
+    width: 700px;
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: indianred;
+    border: 2px solid grey;
+    border-radius: 8px;
+
+}
+img {
+    border-radius: 50%;
+}
+body {
+    background-image: url(https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+}
